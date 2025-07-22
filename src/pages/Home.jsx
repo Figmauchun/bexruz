@@ -108,7 +108,7 @@ function Home() {
       <div className="filter-json">
         <div className="json-title">
           <div className="h2-box">
-            <h2>Discover Fashion.</h2>
+            <h2>Discover Fashion.Behruz</h2>
             <p>
               Dive into a world of fashion innovation at Klothink. Our curated
               collections bring together the latest trends and timeless

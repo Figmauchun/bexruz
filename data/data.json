@@ -1,0 +1,261 @@
+{
+  "trips": [
+    {
+      "Img": "https://images.uzum.uz/d0nq16gn274j5sco19g0/original.jpg",
+      "DetImg": "https://images.uzum.uz/d0nq16gn274j5sco19g0/original.jpg",
+      "Name": "shnurli shim",
+      "Price": "119 900 so'm",
+      "category": "Men`s Blog",
+      "Info": "Bizning kiyim kolleksiyamiz yuqori sifatli materiallardan tikilgan bo‘lib, har bir mavsum uchun alohida qulaylikni ta'minlaydi. Erkaklar, ayollar va bolalar uchun mo‘ljallangan zamonaviy, kundalik va sport kiyimlari sizni kutmoqda.",
+      "id": "44"
+    },
+    {
+      "Img": "https://images.uzum.uz/cvi2bkrvgbkm5ehm4mh0/original.jpg",
+      "DetImg": "https://images.uzum.uz/cvi2bkrvgbkm5ehm4mh0/original.jpg",
+      "Name": "Terko",
+      "Price": "100 s'om",
+      "category": "Men`s Blog",
+      "Info": "Bizning kiyim kolleksiyamiz yuqori sifatli materiallardan tikilgan bo‘lib, har bir mavsum uchun alohida qulaylikni ta'minlaydi. Erkaklar, ayollar va bolalar uchun mo‘ljallangan zamonaviy, kundalik va sport kiyimlari sizni kutmoqda.",
+      "id": "5"
+    },
+    {
+      "Img": "https://images.uzum.uz/cvr17rtpb7fbmqmn4emg/original.jpg",
+      "DetImg": "https://images.uzum.uz/cvr17rtpb7fbmqmn4emg/original.jpg",
+      "Name": "Baby good",
+      "Price": "99 s'om",
+      "category": "Kid’s wear",
+      "Info": "Bizning kiyim kolleksiyamiz yuqori sifatli materiallardan tikilgan bo‘lib, har bir mavsum uchun alohida qulaylikni ta'minlaydi. Erkaklar, ayollar va bolalar uchun mo‘ljallangan zamonaviy, kundalik va sport kiyimlari sizni kutmoqda.",
+      "id": "6"
+    },
+    {
+      "Img": "https://images.uzum.uz/d0mue233uvph509v7qpg/original.jpg",
+      "DetImg": "https://images.uzum.uz/d0mue233uvph509v7qpg/original.jpg",
+      "Name": "Dino",
+      "Price": "130 s'm",
+      "category": "Kid’s wear",
+      "Info": "Bizning kiyim kolleksiyamiz yuqori sifatli materiallardan tikilgan bo‘lib, har bir mavsum uchun alohida qulaylikni ta'minlaydi. Erkaklar, ayollar va bolalar uchun mo‘ljallangan zamonaviy, kundalik va sport kiyimlari sizni kutmoqda.",
+      "id": "7"
+    },
+    {
+      "Img": "https://images.uzum.uz/d0rtvoi7s4fo7mqbcs1g/original.jpg",
+      "DetImg": "https://images.uzum.uz/d0rtvoi7s4fo7mqbcs1g/original.jpg",
+      "Name": "TEDIY BEAR",
+      "Price": "155 s'om ",
+      "category": "Kid’s wear",
+      "Info": "Bizning kiyim kolleksiyamiz yuqori sifatli materiallardan tikilgan bo‘lib, har bir mavsum uchun alohida qulaylikni ta'minlaydi. Erkaklar, ayollar va bolalar uchun mo‘ljallangan zamonaviy, kundalik va sport kiyimlari sizni kutmoqda.",
+      "id": "8"
+    },
+    {
+      "Img": "https://images.uzum.uz/ctrqqalht56ksubbe0m0/original.jpg",
+      "DetImg": "https://images.uzum.uz/ctrqqalht56ksubbe0m0/original.jpg",
+      "Name": "TERRA PRO",
+      "Price": "77 000 s'om",
+      "category": "Men`s Blog",
+      "id": "2"
+    },
+    {
+      "Img": "https://images.uzum.uz/d1rv41d4b5nd70hgc4gg/original.jpg",
+      "DetImg": "https://images.uzum.uz/d1rv41d4b5nd70hgc4gg/original.jpg",
+      "Name": "Loro Piana",
+      "Price": "169 000 so'm",
+      "category": "Men`s Blog",
+      "Info": "Bizning kiyim kolleksiyamiz yuqori sifatli materiallardan tikilgan bo‘lib, har bir mavsum uchun alohida qulaylikni ta'minlaydi. Erkaklar, ayollar va bolalar uchun mo‘ljallangan zamonaviy, kundalik va sport kiyimlari sizni kutmoqda.",
+      "id": "3"
+    },
+    {
+      "Img": "https://images.uzum.uz/cvclv03vgbkm5ehklmjg/original.jpg",
+      "DetImg": "https://images.uzum.uz/cvclv03vgbkm5ehklmjg/original.jpg",
+      "Name": " oversize futbolka",
+      "Price": "63 s'om",
+      "category": "Women’s wear",
+      "Info": "Bizning kiyim kolleksiyamiz yuqori sifatli materiallardan tikilgan bo‘lib, har bir mavsum uchun alohida qulaylikni ta'minlaydi. Erkaklar, ayollar va bolalar uchun mo‘ljallangan zamonaviy, kundalik va sport kiyimlari sizni kutmoqda.",
+      "id": "9"
+    },
+    {
+      "Img": "https://images.uzum.uz/d0jgpugn274j5scn1mig/original.jpg",
+      "DetImg": "https://images.uzum.uz/d0jgpugn274j5scn1mig/original.jpg",
+      "Name": " bir rangdagi futbolka",
+      "Price": "29 s'om",
+      "category": "Women’s wear",
+      "Info": "Bizning kiyim kolleksiyamiz yuqori sifatli materiallardan tikilgan bo‘lib, har bir mavsum uchun alohida qulaylikni ta'minlaydi. Erkaklar, ayollar va bolalar uchun mo‘ljallangan zamonaviy, kundalik va sport kiyimlari sizni kutmoqda.",
+      "id": "10"
+    },
+    {
+      "Img": "https://images.uzum.uz/d1f5joal822nnunh8me0/original.jpg",
+      "DetImg": "https://images.uzum.uz/d1f5joal822nnunh8me0/original.jpg",
+      "Name": "kostyum",
+      "Price": "189 s'm",
+      "category": "Women’s wear",
+      "Info": "Bizning kiyim kolleksiyamiz yuqori sifatli materiallardan tikilgan bo‘lib, har bir mavsum uchun alohida qulaylikni ta'minlaydi. Erkaklar, ayollar va bolalar uchun mo‘ljallangan zamonaviy, kundalik va sport kiyimlari sizni kutmoqda.",
+      "id": "11"
+    },
+    {
+      "Img": "https://images.uzum.uz/d198bcr3uvppu2acc99g/original.jpg",
+      "DetImg": "https://images.uzum.uz/d198bcr3uvppu2acc99g/original.jpg",
+      "Name": "oversayz",
+      "Price": "58 s'om",
+      "category": "Women’s wear",
+      "Info": "Bizning kiyim kolleksiyamiz yuqori sifatli materiallardan tikilgan bo‘lib, har bir mavsum uchun alohida qulaylikni ta'minlaydi. Erkaklar, ayollar va bolalar uchun mo‘ljallangan zamonaviy, kundalik va sport kiyimlari sizni kutmoqda.",
+      "id": "12"
+    },
+    {
+      "Img": "https://images.uzum.uz/cvbhb13vgbkm5ehkb66g/original.jpg",
+      "DetImg": "https://images.uzum.uz/cvbhb13vgbkm5ehkb66g/original.jpg",
+      "Name": " Erkaklar shimi",
+      "Price": "123 s'om",
+      "category": "Men`s Blog",
+      "Info": "Bizning kiyim kolleksiyamiz yuqori sifatli materiallardan tikilgan bo‘lib, har bir mavsum uchun alohida qulaylikni ta'minlaydi. Erkaklar, ayollar va bolalar uchun mo‘ljallangan zamonaviy, kundalik va sport kiyimlari sizni kutmoqda.",
+      "id": "13"
+    },
+    {
+      "Img": "https://images.uzum.uz/d0vsm4i7s4fq7e8u1klg/original.jpg",
+      "DetImg": "https://images.uzum.uz/d0vsm4i7s4fq7e8u1klg/original.jpg",
+      "Name": " remen",
+      "Price": "50 s'om",
+      "category": "Men`s Blog",
+      "Info": "Bizning kiyim kolleksiyamiz yuqori sifatli materiallardan tikilgan bo‘lib, har bir mavsum uchun alohida qulaylikni ta'minlaydi. Erkaklar, ayollar va bolalar uchun mo‘ljallangan zamonaviy, kundalik va sport kiyimlari sizni kutmoqda.",
+      "id": "14"
+    },
+    {
+      "Img": "https://images.uzum.uz/d0q99oj3uvph509vv7mg/original.jpg",
+      "DetImg": "https://images.uzum.uz/d0q99oj3uvph509vv7mg/original.jpg",
+      "Name": "Roberto",
+      "Price": "426 s'om",
+      "category": "Men`s Blog",
+      "Info": "Bizning kiyim kolleksiyamiz yuqori sifatli materiallardan tikilgan bo‘lib, har bir mavsum uchun alohida qulaylikni ta'minlaydi. Erkaklar, ayollar va bolalar uchun mo‘ljallangan zamonaviy, kundalik va sport kiyimlari sizni kutmoqda.",
+      "id": "15"
+    },
+    {
+      "Img": "https://images.uzum.uz/cueu18tht56sc95c7s50/original.jpg",
+      "DetImg": "https://images.uzum.uz/cueu18tht56sc95c7s50/original.jpg",
+      "Name": " Erkaklar Koylagi",
+      "Price": "300 s'om",
+      "category": "Men`s Blog",
+      "Info": "Bizning kiyim kolleksiyamiz yuqori sifatli materiallardan tikilgan bo‘lib, har bir mavsum uchun alohida qulaylikni ta'minlaydi. Erkaklar, ayollar va bolalar uchun mo‘ljallangan zamonaviy, kundalik va sport kiyimlari sizni kutmoqda.",
+      "id": "16"
+    },
+    {
+      "Img": "https://images.uzum.uz/d16hrt27s4fup349tgsg/original.jpg",
+      "DetImg": "https://images.uzum.uz/d16hrt27s4fup349tgsg/original.jpg",
+      "Name": "Erkaklar futbolkasi",
+      "Price": "68 000 s'om",
+      "category": "Men`s Blog",
+      "Info": "Bizning kiyim kolleksiyamiz yuqori sifatli materiallardan tikilgan bo‘lib, har bir mavsum uchun alohida qulaylikni ta'minlaydi. Erkaklar, ayollar va bolalar uchun mo‘ljallangan zamonaviy, kundalik va sport kiyimlari sizni kutmoqda.",
+      "id": "1"
+    }
+  ],
+  "products": [
+    {
+      "Img": "https://images.uzum.uz/cvi2bkrvgbkm5ehm4mh0/original.jpg",
+      "DetImg": "https://images.uzum.uz/cvi2bkrvgbkm5ehm4mh0/original.jpg",
+      "Name": "Terko",
+      "Price": "100 s'om",
+      "category": "Kid’s wear",
+      "id": "5"
+    },
+    {
+      "Img": "https://images.uzum.uz/cvr17rtpb7fbmqmn4emg/original.jpg",
+      "DetImg": "https://images.uzum.uz/cvr17rtpb7fbmqmn4emg/original.jpg",
+      "Name": "Baby good",
+      "Price": "99 s'om",
+      "category": "Kid’s wear",
+      "id": "6"
+    },
+    {
+      "Img": "https://images.uzum.uz/d0mue233uvph509v7qpg/original.jpg",
+      "DetImg": "https://images.uzum.uz/d0mue233uvph509v7qpg/original.jpg",
+      "Name": "Dino",
+      "Price": "130 s'm",
+      "category": "Kid’s wear",
+      "id": "7"
+    },
+    {
+      "Img": "https://images.uzum.uz/d0rtvoi7s4fo7mqbcs1g/original.jpg",
+      "DetImg": "https://images.uzum.uz/d0rtvoi7s4fo7mqbcs1g/original.jpg",
+      "Name": "TEDIY BEAR",
+      "Price": "155 s'om ",
+      "category": "Kid’s wear",
+      "id": "8"
+    },
+    {
+      "Img": "https://images.uzum.uz/cvclv03vgbkm5ehklmjg/original.jpg",
+      "DetImg": "https://images.uzum.uz/cvclv03vgbkm5ehklmjg/original.jpg",
+      "Name": " oversize futbolka",
+      "Price": "63 s'om",
+      "category": "Women’s wear",
+      "id": "9"
+    },
+    {
+      "Img": "https://images.uzum.uz/d0jgpugn274j5scn1mig/original.jpg",
+      "DetImg": "https://images.uzum.uz/d0jgpugn274j5scn1mig/original.jpg",
+      "Name": " bir rangdagi futbolka",
+      "Price": "29 s'om",
+      "category": "Women’s wear",
+      "id": "10"
+    },
+    {
+      "Img": "https://images.uzum.uz/d1f5joal822nnunh8me0/original.jpg",
+      "DetImg": "https://images.uzum.uz/d1f5joal822nnunh8me0/original.jpg",
+      "Name": "kostyum",
+      "Price": "189 s'm",
+      "category": "Women’s wear",
+      "id": "11"
+    },
+    {
+      "Img": "https://images.uzum.uz/d198bcr3uvppu2acc99g/original.jpg",
+      "DetImg": "https://images.uzum.uz/d198bcr3uvppu2acc99g/original.jpg",
+      "Name": "oversayz",
+      "Price": "58 s'om",
+      "category": "Women’s wear",
+      "id": "12"
+    },
+    {
+      "Img": "https://images.uzum.uz/cvbhb13vgbkm5ehkb66g/original.jpg",
+      "DetImg": "https://images.uzum.uz/cvbhb13vgbkm5ehkb66g/original.jpg",
+      "Name": " Erkaklar shimi",
+      "Price": "123 s'om",
+      "category": "Men’s wear",
+      "id": "13"
+    },
+    {
+      "Img": "https://images.uzum.uz/d0vsm4i7s4fq7e8u1klg/original.jpg",
+      "DetImg": "https://images.uzum.uz/d0vsm4i7s4fq7e8u1klg/original.jpg",
+      "Name": " remen",
+      "Price": "50 s'om",
+      "category": "Men’s wear",
+      "id": "14"
+    },
+    {
+      "Img": "https://images.uzum.uz/d0q99oj3uvph509vv7mg/original.jpg",
+      "DetImg": "https://images.uzum.uz/d0q99oj3uvph509vv7mg/original.jpg",
+      "Name": "Roberto",
+      "Price": "426 s'om",
+      "category": "Men’s wear",
+      "id": "15"
+    },
+    {
+      "Img": "https://images.uzum.uz/cueu18tht56sc95c7s50/original.jpg",
+      "DetImg": "https://images.uzum.uz/cueu18tht56sc95c7s50/original.jpg",
+      "Name": " Erkaklar Koylagi",
+      "Price": "300 s'om",
+      "category": "Men’s wear",
+      "id": "16"
+    },
+    {
+      "id": "1c50",
+      "name": "",
+      "img": "",
+      "category": "",
+      "info": "",
+      "Price": ""
+    },
+    {
+      "id": "c877",
+      "name": "a",
+      "img": "a",
+      "category": "",
+      "info": "a",
+      "Price": "a"
+    }
+  ]
+}
